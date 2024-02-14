@@ -1,0 +1,53 @@
+﻿{
+  "data":
+  [
+    {
+      "name": "Event 1",
+      "description": "Lorem ipsum",
+      "stat": {
+        "health": -5,
+        "sanctity": -5,
+        "stamina": -5,
+        "atk": 2,
+        "def": 0,
+        "luck": 0,
+        "coin": 0
+      },
+      "type": "normal"
+    },
+    {
+      "name": "Event 2",
+      "description": "Lorem ipsum",
+      "stat": {
+        "health": -5,
+        "sanctity": -25,
+        "stamina": -5,
+        "atk": -2,
+        "def": 0,
+        "luck": 10,
+        "coin": 0
+      },
+      "type": "normal"
+    },
+    {
+      "name": "Event 3",
+      "description": "Lorem ipsum",
+      "stat": {
+        "health": -5,
+        "sanctity": -25,
+        "stamina": -5,
+        "atk": -2,
+        "def": 0,
+        "luck": 10,
+        "coin": 0
+      },
+      "type": "fight",
+      "mob": {
+        "health": 25,
+        "atk": 10,
+        "def": 0,
+        "level": 1
+      }
+    }
+  ]
+}
